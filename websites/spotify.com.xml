@@ -3,7 +3,7 @@
     <description value="Online music streaming service." />
     <login_url value="https://accounts.spotify.com/api/login" />
     <invalid_http_status value="400" msg="Probably invalid credentials..." />
-    <valid_password value="{"displayName":""}" />
+    <valid_password value="displayName":"" />
     <invalid_password value="{"error":"errorInvalidCredentials"}" />
     <headers value="Referer=https://accounts.spotify.com/en-US/login" />
     <cookies value="__bon=MHwwfC0zMDc2NTg4NzR8LTEyOTIxNjcyNzA4fDF8MXwxfDE=" />
