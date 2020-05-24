@@ -12,6 +12,6 @@
     <password_parameter value="password" />
     <csrf_token_name value="csrf_token" />
     <csrf_url value="https://accounts.spotify.com/en-US/login" />
-    <csrf_setcookie value="csrf_token=(?P<token>[^\s]+)" />
+    <csrf_setcookie value="csrf_token=(?P&lt;token&gt;[^\s]+)" />
     <data value="remember=false&amp;username=&amp;password=&amp;csrf_token=" />
 </properties>
