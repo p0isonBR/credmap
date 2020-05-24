@@ -13,7 +13,6 @@
     <password_parameter value="passwd" />
     <csrf_token_name value="acrumb" />
     <csrf_url value="https://login.yahoo.com/config/login" />
-    <csrf_start value="type="hidden" name="acrumb" value="85k9jvY1" />
-    <csrf_end value="85k9jvY1" />" />
+    <csrf_start value="type="hidden" name="acrumb" value="85k9jvY1" /><csrf_end value="85k9jvY1" />" />
     <data value="countrycode=&amp;username=&amp;passwd=&amp;signin=&amp;acrumb=&amp;_format=json&amp;_seqid=3&amp;otp_channel=&amp;_loadtpl=1" />
 </properties>
