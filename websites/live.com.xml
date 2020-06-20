@@ -1,7 +1,7 @@
 <properties>
     <name value="Login Caixa" />
     <description value="Entrar em login Caixa" />
-    <login_url value="https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?client_id=cli-mob-nbm&amp;redirect_uri=br.gov.caixa.tem:/oauth2Callbackampresponse_type=code&amp;scope=openid" />
+    <login_url value="https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?client_id=cli-mob-nbm" />
     <invalid_password value="Senha invalida" />
     <valid_password value="cadastrar o dispositivo." />
     <invalid_account value="CPF Invalido" />
