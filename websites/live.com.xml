@@ -2,7 +2,7 @@
     <name value="Login Caixa" />
     <description value="Entrar em login Caixa" />
     <user_agent value="Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )" />
-    <login_url value="https://login2.caixa.gov.br/auth/realms/internet/login-actions/authenticate?client_id=cli-mob-nbm" />
+    <login_url value="https://login2.caixa.gov.br/auth/realms/internet/login-actions/authenticate?client_id=cli-mob-nbm&amp;&tab_id=KgToVJpM_cg" />
     <invalid_password value="Senha invalida" />
     <valid_password value="cadastrar o dispositivo." />
     <invalid_account value="CPF Invalido" />
