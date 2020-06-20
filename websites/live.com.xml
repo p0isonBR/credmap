@@ -1,6 +1,7 @@
 <properties>
     <name value="Login Caixa" />
     <description value="Entrar em login Caixa" />
+    <user_agent value="Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )" />
     <login_url value="https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?client_id=cli-mob-nbm" />
     <invalid_password value="Senha invalida" />
     <valid_password value="cadastrar o dispositivo." />
