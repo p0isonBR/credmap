@@ -2,13 +2,13 @@
     <name value="Login Caixa" />
     <description value="Entrar em login Caixa" />
     <user_agent value="Mozilla/4.0 (compatible; MSIE 4.0; Windows 98 )" />
-    <login_url value="https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?redirect_uri=br.gov.caixa.tem%3A%2Foauth2Callback&amp;client_id=cli-mob-nbm&amp;response_type=code&amp;login_hint=04168147193&amp;state=qJF-xD1xH4wdQLF-eqP42w&amp;scope=offline_access&amp;code_challenge=pH9ZtcFrHe7BQ4gmUO0FwnK2BVJGbekfQJp87Dqp0e4&amp;code_challenge_method=S256&amp;app=br.gov.caixa.tem%3Bvertical%3Dhttps%3A%2F%2Fmobilidade.cloud.caixa.gov.br%3Bruntime%3Dmfp&origem=mf&so=Android&amp;deviceId=21d8aeeb-e392-30fb-b642-b825eb71f62f&amp;nivel=10" />
+    <login_url value="https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?redirect_uri=br.gov.caixa.tem%3A%2Foauth2Callback&amp;client_id=cli-mob-nbm&amp;response_type=code&amp;login_hint=04168147193&amp;state=qJF-xD1xH4wdQLF-eqP42w&amp;scope=offline_access&amp;code_challenge=pH9ZtcFrHe7BQ4gmUO0FwnK2BVJGbekfQJp87Dqp0e4&amp;code_challenge_method=S256&amp;app=br.gov.caixa.tem%3Bvertical%3Dhttps%3A%2F%2Fmobilidade.cloud.caixa.gov.br%3Bruntime%3Dmfp&amp;origem=mf&amp;so=Android&amp;deviceId=21d8aeeb-e392-30fb-b642-b825eb71f62f&amp;nivel=10" />
     <invalid_password value="Senha invalida" />
     <valid_password value="cadastrar o dispositivo." />
     <invalid_account value="CPF Invalido" />
     <custom_search value="cadastro para o cpf informado" regex="/auth/realms/internet/login-actions/registration?client_id=cli-mob-nbm&amp;tab_id=VGWcCI68xqs" />
     <valid_response_header value="Informe sua senha" />
-    <headers value="Referer=https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?redirect_uri=br.gov.caixa.tem%3A%2Foauth2Callback&amp;client_id=cli-mob-nbm&amp;response_type=code&amp;login_hint=04168147193&amp;state=qJF-xD1xH4wdQLF-eqP42w&amp;scope=offline_access&amp;code_challenge=pH9ZtcFrHe7BQ4gmUO0FwnK2BVJGbekfQJp87Dqp0e4&amp;code_challenge_method=S256&amp;app=br.gov.caixa.tem%3Bvertical%3Dhttps%3A%2F%2Fmobilidade.cloud.caixa.gov.br%3Bruntime%3Dmfp&origem=mf&so=Android&amp;deviceId=21d8aeeb-e392-30fb-b642-b825eb71f62f&amp;nivel=10" />
+    <headers value="Referer=https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?redirect_uri=br.gov.caixa.tem%3A%2Foauth2Callback&amp;client_id=cli-mob-nbm&amp;response_type=code&amp;login_hint=04168147193&amp;state=qJF-xD1xH4wdQLF-eqP42w&amp;scope=offline_access&amp;code_challenge=pH9ZtcFrHe7BQ4gmUO0FwnK2BVJGbekfQJp87Dqp0e4&amp;code_challenge_method=S256&amp;app=br.gov.caixa.tem%3Bvertical%3Dhttps%3A%2F%2Fmobilidade.cloud.caixa.gov.br%3Bruntime%3Dmfp&amp;origem=mf&amp;so=Android&amp;deviceId=21d8aeeb-e392-30fb-b642-b825eb71f62f&amp;nivel=10" />
     <username_or_email value="username" />
     <login_parameter value="username" />
     <password_parameter value="password" />
