@@ -12,4 +12,5 @@
     <username_or_email value="username" />
     <login_parameter value="username" />
     <password_parameter value="password" />
+    <data value="username=&amp;password=&amp;" />
 </properties>
