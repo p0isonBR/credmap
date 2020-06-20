@@ -2,10 +2,10 @@
     <name value="Login Caixa" />
     <description value="Entrar em login Caixa" />
     <login_url value="https://login2.caixa.gov.br/auth/realms/internet/protocol/openid-connect/auth?client_id=cli-mob-nbm&amp;redirect_uri=br.gov.caixa.tem:/oauth2Callbackampresponse_type=code&amp;scope=openid" />
-    <invalid_password value="Senha inválida" />
-    <valid_password value="Não foi possível cadastrar o dispositivo." />
+    <invalid_password value="Senha invalida" />
+    <valid_password value="foi possível cadastrar o dispositivo." />
     <invalid_account value="CPF Invalido" />
-    <custom_search value="Nao há cadastro para o cpf informado" regex="/auth/realms/internet/login-actions/registration?client_id=cli-mob-nbm&amp;tab_id=VGWcCI68xqs" />
+    <custom_search value="cadastro para o cpf informado" regex="/auth/realms/internet/login-actions/registration?client_id=cli-mob-nbm&amp;tab_id=VGWcCI68xqs" />
     <valid_response_header value="Informe sua senha" />
     <headers value="Referer=https://login2.caixa.gov.br/auth/realms/internet/login-actions/authenticate?client_id=cli-mob-nbm&amp;tab_id=VGWcCI68xqs" />
     <username_or_email value="username" />
