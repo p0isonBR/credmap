@@ -3,7 +3,7 @@
     <description value="Entrar" />
     <login_url value="https://mobile.twitter.com/sessions" />
     <user_agent value="Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)" />
-    <valid_password value="class="search"" />
+    <valid_password value="search" />
     <invalid_password value="/signup" />
     <username_or_email value="both" />
     <login_parameter value="session%5Busername_or_email%5D=" />
