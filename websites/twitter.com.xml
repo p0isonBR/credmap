@@ -12,5 +12,5 @@
     <csrf_url value="https://mobile.twitter.com/sessions" />
     <csrf_start value="name=&quot;authenticity_token&quot; type=&quot;hidden&quot; value=&quot;" />
     <csrf_end value="&quot;" />
-    <data value="authenticity_token=&amp;session[username_or_email]=&amp;session[password]=&amp;remember_me=1&amp;wfa=1" />
+    <data value="authenticity_token=&amp;session[username_or_email]=&amp;session[password]=&amp;remember_me=1&wfa=1&redirect_after_login=https%3A%2F%2Fmobile.twitter.com%2Faccount" />
 </properties>
