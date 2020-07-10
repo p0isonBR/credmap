@@ -11,5 +11,5 @@
     <csrf_token_name value="authenticity_token" />
     <csrf_url value="https://mobile.twitter.com/sessions" />
     <csrf_regex value="value=&quot;(?P&lt;token&gt;.{40})&quot;\sname=&quot;authenticity_token&quot;&gt;" />
-    <data value="authenticity_token=&session%5Busername_or_email%5D=&session%5Bpassword%5D=&remember_me=1&wfa=1&redirect_after_login=https%3A%2F%2Fmobile.twitter.com%2Faccount" />
+    <data value="authenticity_token=&amp;session%5Busername_or_email%5D=&amp;session%5Bpassword%5D=&amp;remember_me=1&wfa=1&amp;redirect_after_login=https%3A%2F%2Fmobile.twitter.com%2Faccount" />
 </properties>
