@@ -10,6 +10,6 @@
     <password_parameter value="session%5Bpassword%5D=" />
     <csrf_token_name value="authenticity_token" />
     <csrf_url value="https://mobile.twitter.com/sessions" />
-    <csrf_token value="name=&quot;authenticity_token&quot;&nbsp;type=&quot;hidden&quot;&nbsp;value=" "" />
+    <csrf_token value="name=&quot;authenticity_token&quot;&nbsp;type=&quot;hidden&quot;&nbsp;value=""" />
     <data value="authenticity_token=&amp;session%5Busername_or_email%5D=&amp;session%5Bpassword%5D=&amp;remember_me=1&amp;wfa=1&amp;redirect_after_login=https%3A%2F%2Fmobile.twitter.com%2Faccount" />
 </properties>
